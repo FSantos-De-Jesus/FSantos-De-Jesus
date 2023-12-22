@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 
 
-I'm currently a Computational Biologist-Grad student @ New York university.
-Working on genomics and epigenomics in Fei Li lab.
-Bench work biologist transitioning to my computational biologist era
-I use R primary for data reformatting and wrangling, and visualization in the tidyverse ecosystem;
-I use python for writing Snakemake workflows; Unix and shell tricks geek. 
-Enthusiast of machine learning approaches for cancer Biology.
+- I'm currently a Computational Biologist-Grad student @ New York university.
+- Working on genomics and epigenomics in Fei Li lab.
+- Bench work biologist transitioning to my computational biologist era
+- I use R primary for data reformatting and wrangling, and visualization in the tidyverse ecosystem;
+- I use python for writing Snakemake workflows; Unix and shell tricks geek. 
+- Enthusiast of machine learning approaches for cancer Biology.
 
