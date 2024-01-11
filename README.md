@@ -1,5 +1,5 @@
 # Hello all 🫡
-## Under construction my apologize if its still unupdated
+## Under construction my apologies if its still unupdated
 <!--
 **FSantos-De-Jesus/FSantos-De-Jesus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
