@@ -22,3 +22,4 @@ Here are some ideas to get you started:
 - 🍒 I use python for writing Snakemake workflows; Unix and shell tricks geek.
 - 💡 Enthusiast of machine learning approaches for cancer Biology.
 
+## Here you'll see some of my downstream analyses and python scripts repositories. I'm beginning on this so soon I will put more details in each proyects linked to these scripts and analyses, and sequencing analyses tutorials
